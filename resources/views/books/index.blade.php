@@ -1,4 +1,5 @@
 @extends('layouts.app')
+<!-- goes into layouts/app.blade.php -->
 
 @section('content')
     <div class="container">
